@@ -1,2 +1,2 @@
 # all-in-toolchain
-Toolchain with multiple tool integrations
+A toolchain is created with many tool integrations prepared
