@@ -1,0 +1,29 @@
+
+---
+name: "All In Toolchain"
+description: "This toolchain will be used in Functional System Test.\n Click CREATE to start."
+version: 0.1
+
+# Github repos
+sample-repo:
+  service_id: githubpublic
+  
+# Pipelines
+sample-build:
+  service_id: pipeline
+  
+#Web IDE
+webide:
+  service_id: orion
+  
+#Slack
+slack:
+  service_id: slack
+  
+#PagerDuty
+pagerduty:
+  service_id: pagerduty
+  
+#SauceLabs
+saucelabs:
+  service_id: saucelabs
