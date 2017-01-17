@@ -27,3 +27,15 @@ pagerduty:
 #SauceLabs
 saucelabs:
   service_id: saucelabs
+  
+#OtherTool
+othertool:
+  service_id: customtool
+
+#Availability Monitoring
+availabilitymonitoring:
+  service_id: apm
+
+#DevOps Insights
+dra:
+  service_id: draservicebroker
